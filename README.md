@@ -1,4 +1,3 @@
-![logo](https://github.com/Husnainaqeel384/Husnainaqeel384/blob/main/Poster.jpg)
 <h1 align="center">Hi 👋, I'm Hammas Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
