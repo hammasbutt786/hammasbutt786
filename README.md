@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hamasahmed341@gmail.com**
 
-- 📄 Know about my experiences [3 years in Frontend Development](3 years in Frontend Development)
+- 📄 Know about my experiences [3+ years in Frontend Development](3+ years in Frontend Development)
 
 <p align="left">
 </p>
